@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B3502A01794279F001216DC /* Movie.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6B35029F1794279F001216DC /* Movie.mp4 */; };
 		6B93F9D7177F15E400B6BC70 /* player-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B93F9D1177F15E400B6BC70 /* player-icon@2x.png */; };
 		6B93F9D8177F15E400B6BC70 /* defaultPlayer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B93F9D2177F15E400B6BC70 /* defaultPlayer@2x.png */; };
 		6B93F9D9177F15E400B6BC70 /* player-bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B93F9D3177F15E400B6BC70 /* player-bg@2x.png */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B35029F1794279F001216DC /* Movie.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Movie.mp4; sourceTree = "<group>"; };
 		6B93F9D1177F15E400B6BC70 /* player-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "player-icon@2x.png"; path = "Images/player-icon@2x.png"; sourceTree = "<group>"; };
 		6B93F9D2177F15E400B6BC70 /* defaultPlayer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "defaultPlayer@2x.png"; path = "Images/defaultPlayer@2x.png"; sourceTree = "<group>"; };
 		6B93F9D3177F15E400B6BC70 /* player-bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "player-bg@2x.png"; path = "Images/player-bg@2x.png"; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				C38EFF2F1716C4BD001A3A2D /* second.png */,
 				C38EFF311716C4BD001A3A2D /* second@2x.png */,
 				C38EFF3A1716D76D001A3A2D /* sample.mov */,
+				6B35029F1794279F001216DC /* Movie.mp4 */,
 				C38EFF111716C4BC001A3A2D /* Supporting Files */,
 			);
 			path = CustomPlayer;
@@ -232,6 +235,7 @@
 				6B93F9DA177F15E400B6BC70 /* player-btn-pause@2x.png in Resources */,
 				6B93F9DB177F15E400B6BC70 /* player-btn-play@2x.png in Resources */,
 				6B93F9DC177F15E400B6BC70 /* player-handle@2x.png in Resources */,
+				6B3502A01794279F001216DC /* Movie.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

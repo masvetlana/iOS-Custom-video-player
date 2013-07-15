@@ -26,8 +26,8 @@
     [super viewDidLoad];
     self.navigationItem.title = @"Stream Video";
    // NSString *mediaPath =@"https://www.facebook.com/photo.php?v=379411858834268";
-    
-    NSURL *url =[[NSBundle mainBundle] URLForResource: @"sample" withExtension:@"mov"];
+    NSURL *url =[[NSBundle mainBundle] URLForResource: @"Movie" withExtension:@"mp4"];
+    //NSURL *url =[[NSBundle mainBundle] URLForResource: @"sample" withExtension:@"mov"];
     //NSURL *url = [NSURL URLWithString:[NSString stringWithFormat:@"http://movies.apple.com/media/us/mac/getamac/2009/apple-mvp-biohazard_suit-us-20090419_480x272.mov"]];
     if(url)
     {
